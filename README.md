@@ -1,5 +1,3 @@
-> **📦 This repository has moved.** It now lives in [Grant_Jape_Portfolio/projects/bike-sales-mmm](https://github.com/grant-jape/Grant_Jape_Portfolio/tree/main/projects/bike-sales-mmm), with full history. This copy is archived (read-only).
-
 # Bike_Sales_MMM
 Project 1 of my portfolio. 
 
